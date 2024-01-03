@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
 })
 export class FinancialService {
 
-  private baseUrl = 'http://19.1.1.53:5000';
+  private baseUrl = 'http://110.39.26.246:9002';
 
   constructor(private http: HttpClient) {}
 
